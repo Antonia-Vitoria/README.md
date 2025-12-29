@@ -53,10 +53,13 @@ _Essa comunicação ocorre estritamente por meio de uma **API (Application Progr
 
 + _**Formato JSON**: É a linguagem universal (o pacote de dados) que ambos utilizam para garantir que a informação enviada por um seja compreendida pelo outro._
 
+### Conclusão
+_O Front-End e o Back-End são como duas partes de uma mesma engrenagem: enquanto um cuida da experiência do usuário, o outro garante que tudo funcione por trás da tela. Juntos, tornam possível transformar ideias em soluções digitais._
+
 **_Se quiser saber mais entre Back-End e Front-End assista este video aqui:_**
 [Youtube](https://youtube.com/shorts/TuDbBozGRII?si=f2lIXO3LslAcRcCX)
 
 ### Autor: _Antonia Caetano_
-[Linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPtIP6Dl%2BTQeYWpz741yiQg%3D%3D)
+[Linkedin](https://www.linkedin.com/in/antônia-vitoria-santos-caetano-540630375/)
 
 [GitHub](https://github.com/Antonia-Vitoria)

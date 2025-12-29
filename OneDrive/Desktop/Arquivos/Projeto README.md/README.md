@@ -1,12 +1,13 @@
 # Desenvolvimento de Software 💻
 
-_A tecnologia evoluiu muito nos últimos anos e hoje está presente em praticamente tudo que fazemos.  
-O desenvolvimento de software é parte essencial dessa evolução, pois é através dele que surgem os aplicativos, sites e sistemas que facilitam nossa vida.  
-A área de **TI (Tecnologia da Informação)** torna nosso dia a dia mais simples, rápido e conectado, ajudando empresas e pessoas a resolverem problemas e criarem novas oportunidades._
+_A tecnologia evoluiu muito nos últimos anos e hoje está presente em praticamente tudo que fazemos, o desenvolvimento de software é parte essencial dessa evolução, pois é através dele que surgem os aplicativos, sites e sistemas que facilitam nossa vida.  
+A área de **TI (Tecnologia da Informação)** torna nosso dia a dia mais simples, rápido e conectado, ajudando empresas e pessoas a resolverem problemas e criarem novas oportunidades.  
+Dentro desse universo, existem diferentes áreas e funções que tornam possível transformar ideias em soluções digitais, entre elas, duas se destacam por sua importância e complementaridade: o **Front-End**, responsável pela parte visual e interativa, e o **Back-End**, que cuida da lógica e dos bastidores da aplicação.  
+Agora vamos explorar de forma prática como cada uma dessas áreas atua e quais são suas principais características._
 
 ## Desenvolvedor Web Front - End 👩‍💻
 + _Um Desenvolvedor Front-end (Dev Front-end) é o profissional que constrói a parte visual e interativa de sites e aplicativos, tudo aquilo que o usuário vê e com o que interage diretamente no navegador ou tela, usando tecnologias como HTML, CSS e JavaScript para transformar designs em interfaces funcionais, rápidas e agradáveis, garantindo a experiência do usuário_ (UX User Experience) _e a responsividade em diferentes dispositivos._
-### Qual é a função do Front - End?
+### Principais Responsabilidades:
 + **Implementa o Design**: Pega um projeto de design e o transforma em código, definindo a estrutura (HTML), o estilo e cores (CSS) e a interatividade (JavaScript).
 
 + **Cria Interatividade**: Adiciona botões que funcionam, menus que abrem, formulários que enviam dados e animações.

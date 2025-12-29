@@ -55,3 +55,8 @@ _Essa comunicação ocorre estritamente por meio de uma **API (Application Progr
 
 **_Se quiser saber mais entre Back-End e Front-End assista este video aqui:_**
 [Youtube](https://youtube.com/shorts/TuDbBozGRII?si=f2lIXO3LslAcRcCX)
+
+### Autor: _Antonia Caetano_
+[Linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPtIP6Dl%2BTQeYWpz741yiQg%3D%3D)
+
+[GitHub](https://github.com/Antonia-Vitoria)

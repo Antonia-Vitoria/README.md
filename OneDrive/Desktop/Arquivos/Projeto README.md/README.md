@@ -1,5 +1,8 @@
 # Desenvolvimento de Software 💻
-<img src="https://www.targethost.com.br/wp-content/uploads/2019/03/MaxPixel.freegreatpicture.com-Programming-Program-Source-Code-Code-Javascript-3337044.jpg" />
+
+_A tecnologia evoluiu muito nos últimos anos e hoje está presente em praticamente tudo que fazemos.  
+O desenvolvimento de software é parte essencial dessa evolução, pois é através dele que surgem os aplicativos, sites e sistemas que facilitam nossa vida.  
+A área de **TI (Tecnologia da Informação)** torna nosso dia a dia mais simples, rápido e conectado, ajudando empresas e pessoas a resolverem problemas e criarem novas oportunidades._
 
 ## Desenvolvedor Web Front - End 👩‍💻
 + _Um Desenvolvedor Front-end (Dev Front-end) é o profissional que constrói a parte visual e interativa de sites e aplicativos, tudo aquilo que o usuário vê e com o que interage diretamente no navegador ou tela, usando tecnologias como HTML, CSS e JavaScript para transformar designs em interfaces funcionais, rápidas e agradáveis, garantindo a experiência do usuário_ (UX User Experience) _e a responsividade em diferentes dispositivos._
